@@ -2,8 +2,7 @@ import pickle
 
 from st_on_hover_tabs import on_hover_tabs
 import streamlit as st
-from streamlit_back_camera_input import back_camera_input
-#from streamlit_tesseract_scanner import tesseract_scanner
+
 
 
 
@@ -61,9 +60,9 @@ elif tabs == 'Camera':
     st.title("Camera")
     st.write('Name of option is {}'.format(tabs))
 
-    image = back_camera_input()
-    if image:
-        st.image(image)
+    #image = back_camera_input()
+    #if image:
+    #    st.image(image)
 
 
 
