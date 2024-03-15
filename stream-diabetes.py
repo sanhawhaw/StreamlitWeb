@@ -4,7 +4,7 @@ from st_on_hover_tabs import on_hover_tabs
 import streamlit as st
 from streamlit_back_camera_input import back_camera_input
 #from streamlit_tesseract_scanner import tesseract_scanner
-from streamlit_autorefresh import st_autorefresh
+
 
 
 #membace model
