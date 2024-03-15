@@ -3,5 +3,5 @@ pandas==2.0.2
 streamlit
 scikit-learn
 pip==24.0
-streamlit-on-Hover-tabs==1.30.0
+streamlit-on-Hover-tabs==1.0.1
 streamlit-back-camera-input==0.1.1
